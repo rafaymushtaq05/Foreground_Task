@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "122324891225",
+    "firebase_url": "https://autosavedata-63f13-default-rtdb.firebaseio.com",
+    "project_id": "autosavedata-63f13",
+    "storage_bucket": "autosavedata-63f13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122324891225:android:02bde0b6fafa1cc721a348",
+        "android_client_info": {
+          "package_name": "com.example.schedule_task_bg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLH5yugCZr7Oyq0SzgTwOKQASb9Jerg1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
