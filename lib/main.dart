@@ -33,7 +33,7 @@ class MyTaskHandler extends TaskHandler {
   // Function to send data to Firebase
   Future<void> sendDataToFirebase(int count) async {
     final url = Uri.parse(
-        'https://autosavedata-63f13-default-rtdb.firebaseio.com/test.json');
+        'your-firebase-url');
 
     try {
       final response = await http.post(
